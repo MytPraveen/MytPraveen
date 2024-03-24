@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Praveen
+===============================================================================================================================
 
-- 🔭 I’m currently working on **Techincal Service Engineer**
+DevOps Engineer
+---------------
 
-- 🌱 I’m currently learning **DevOps and AWS**
+I am currently working as a service engineer at Fujitsu and am eager to transition my career to DevOps. Over the past 5 months, I have been actively learning DevOps methodologies and putting them into practice. In addition to my experience as a service engineer, my dedication to mastering DevOps has allowed me to develop a solid understanding of key principles such as continuous integration, continuous delivery, and automation. I have been honing my skills in tools like Docker, Kubernetes, Jenkins, and Git to streamline development processes and enhance efficiency. My background in service engineering has equipped me with valuable problem-solving abilities and a keen eye for system optimization, which I believe will be assets in a DevOps role. I am enthusiastic about the opportunity to apply my knowledge and contribute to the seamless integration of development and operations within an organization.
 
-- 👯 I’m looking to collaborate on **DevOps**
-
-- 🤝 I’m looking for help with **DevOps**
-
-- 💬 Ask me about **Linux, Jenkins, Git, Docker, Kubernetes, Terraform**
+* 🌍  I'm based in India
+* ✉️  You can contact me at [mosespraveen96@gmail.com](mailto:mosespraveen96@gmail.com)
+* 🧠  I'm learning Python, Kubernetes and AWS
+* 🤝  I'm open to collaborating on DevOps Projects
+* ⚡  I can understand Japanese and have a Q4 Certificate in NAT
 
 - 📫 How to reach me **mosespraveen96@gmail.com**
 
