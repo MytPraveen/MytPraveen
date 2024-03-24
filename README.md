@@ -14,7 +14,7 @@ I am currently working as a service engineer at Fujitsu and am eager to transiti
 
 - 📫 How to reach me **mosespraveen96@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
