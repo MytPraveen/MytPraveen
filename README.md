@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Praveen
 ===============================================================================================================================
 
-Eager to transition career to DevOps
+
 ---------------
 
-I am currently working as a service engineer at Fujitsu and am eager to transition my career to DevOps. Over the past 5 months, I have been actively learning DevOps methodologies and putting them into practice. In addition to my experience as a service engineer, my dedication to mastering DevOps has allowed me to develop a solid understanding of key principles such as continuous integration, continuous delivery, and automation. I have been honing my skills in tools like Docker, Kubernetes, Jenkins, and Git to streamline development processes and enhance efficiency. My background in service engineering has equipped me with valuable problem-solving abilities and a keen eye for system optimization, which I believe will be assets in a DevOps role. I am enthusiastic about the opportunity to apply my knowledge and contribute to the seamless integration of development and operations within an organization.
+I am currently working as a DevOps Engineer for 1.6 Yeats.I have been actively learning DevOps methodologies and putting them into practice. In addition to my experience as a service engineer, my dedication to mastering DevOps has allowed me to develop a solid understanding of key principles such as continuous integration, continuous delivery, and automation. I have been honing my skills in tools like Docker, Kubernetes, Jenkins, and Git to streamline development processes and enhance efficiency. My background in service engineering has equipped me with valuable problem-solving abilities and a keen eye for system optimization, which I believe will be assets in a DevOps role. I am enthusiastic about the opportunity to apply my knowledge and contribute to the seamless integration of development and operations within an organization.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [mosespraveen96@gmail.com](mailto:mosespraveen96@gmail.com)
@@ -23,6 +23,3 @@ I am currently working as a service engineer at Fujitsu and am eager to transiti
 
 
 
-
-Professional Development & Upskilling
-I have been learning, upskilling myself, and gaining valuable hands-on experience in the latest cloud computing technologies and tools such as AWS, Terraform, Jenkins, Ansible, Kubernetes, Docker, Git, and Linux.
